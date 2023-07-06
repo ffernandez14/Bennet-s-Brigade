@@ -1,7 +1,4 @@
-# Bennet s Brigade - WRO 2023 Season | Future Engineer
-
-# WRO 2023 Bennet s Brigade's
-**GammaVersion's repo for WRO Future Engineers 2023 season**
+# Bennet s Brigade's - WRO 2023 Season | Future Engineer
 
 ***
 
