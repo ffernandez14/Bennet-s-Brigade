@@ -1,5 +1,7 @@
 # Bennet s Brigade's - WRO 2023 Season | Future Engineer
 
+![Información detallada de el equipo](https://github.com/ffernandez14/Bennet-s-Brigade/assets/138822765/c3ce5ac4-7163-4bed-85fc-2e2bb2253317)
+
 ***
 
 ## Contents
@@ -24,6 +26,11 @@
 ## Hardware
 
 Mindstorm 5155
+
+![logico](https://github.com/ffernandez14/Bennet-s-Brigade/assets/138822765/3bf23bd3-e316-4407-8451-df6d4386dfe3)
+
+![fisico](https://github.com/ffernandez14/Bennet-s-Brigade/assets/138822765/2bc68f34-6225-4516-8772-b45adaaf0fc8)
+
 
 ***
 
