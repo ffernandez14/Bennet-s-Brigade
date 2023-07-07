@@ -56,7 +56,10 @@
 
 ## Videos
 
+<a href="https://www.youtube.com/watch?v=vqE9pbbsPYo"><img src="https://github.com/ffernandez14/Bennet-s-Brigade/assets/138822765/fb5443cd-253a-4195-8ad2-59c9ce6b446e" alt="Image" height="42" width="42"></a>
 ### Demonstration videos
+
+<a href="https://www.youtube.com/watch?v=_w8I596dLV8"><img src="https://github.com/ffernandez14/Bennet-s-Brigade/assets/138822765/fb5443cd-253a-4195-8ad2-59c9ce6b446e" alt="Image" height="42" width="42"></a>
 
 ***
 
