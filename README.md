@@ -47,11 +47,7 @@
 
 ### License
 
-The [source code](/code/) in this repository is licensed under the **GNU General Public License v3.0**.
-
-The [hardware](/models/) exposed in this project is licensed under the **Creative Commons Attribution Share Alike 4.0 International** license.
-
-The documentation of this repository; found in [`robot-info`](/robot-info/), [`electronics`](/electronics/), [`vehicle-photos`](/vehicle-photos/), [`videos`](/videos/), [`team-photos`](/team-photos/), as well as this `README.md`; is licensed under the **CERN Open Hardware Licence Version 2 - Strongly Reciprocal** license.
+This repository is licensed under the **MIT License**.
 
 A copy of each license can be found in the [LICENSE](LICENSE) file. More information about the licenses in the specific README.md of each section.
 
