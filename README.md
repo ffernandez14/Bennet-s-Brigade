@@ -61,7 +61,34 @@ Mindstorm 5155
 
 - Left
 ![LEFT_BB](https://github.com/ffernandez14/Bennet-s-Brigade/assets/138822765/2a7b6a07-f9d8-491d-869f-18caea78bf39)
+________________________________________________________________________________________________________________
+The LEGO MINDSTORMS Robot Inventor served as the foundation for constructing this autonomous robot. Now, let's delve into a brief overview of each electromechanical element utilized in crafting this innovative robot.
 
+Motors:
+
+Large Angular Rear Motor: This motor, linked to a gear system, facilitates the rotation of the rear wheels, offering both rear traction and torque for smooth motion.
+
+Medium Angular Front Motor: Responsible for steering the robot, this motor empowers it to maneuver in various directions.
+
+Sensors:
+
+Ultrasonic Sensor:
+
+Primarily employed for distance measurement and obstacle avoidance.
+
+Color Sensor:
+
+Distinguished by its high precision and a remarkable sampling frequency of 1kHz, ensuring the acquisition of precise data for consistent outcomes. Additionally, it's proficient in detecting 8 colors, gauging the intensity of reflected white light, and measuring ambient light. Its uncomplicated design allows for quick assembly and disassembly, enabling easy adaptation to a range of scenarios.
+
+HuskyLens Camera:
+
+Substituting the color sensor from the Spike Prime set, this camera incorporates cutting-edge AI chips for recognizing the color and shape of objects, particularly obstacles.
+
+Hub:
+
+This is a sophisticated hub with an array of exceptional features. It boasts 6 ports for connecting sensors and motors, a board adorned with 25 customizable lights, and the capability to communicate via Bluetooth. Furthermore, it comes equipped with a speaker for generating sounds and a smart 6-axis gyroscope to capture movements in all directions. The rechargeable battery ensures extended operation before requiring a recharge. This device operates using its own built-in operating system, akin to a brain, known as MicroPython, and can store up to 20 programs. The built-in lights, organized in a 5x5 matrix, introduce an interactive visual dimension, while its capacity for audio output and wireless connectivity via Bluetooth expand the realm of entertainment possibilities.
+
+________________________________________________________________________________________________________________
 
 ### Team images
  - Formal
